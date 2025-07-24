@@ -27,3 +27,16 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/antor-biswas-680752238" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/antor.biswas.965" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/aantor_b" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antor1010&label=Profile%20views&color=0e75b6&style=flat" alt="antor1010" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antor1010" alt="antor1010" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antor1010&show_icons=true&locale=en&layout=compact" alt="antor1010" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antor1010&show_icons=true&locale=en" alt="antor1010" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antor1010&" alt="antor1010" /></p>

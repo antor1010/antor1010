@@ -26,6 +26,35 @@
 
 ---
 
+## 🏅 অফিসিয়াল অ্যাচিভমেন্টস
+
+> GitHub অফিসিয়াল **Achievements** হলো এমন ব্যাজ যেগুলো GitHub নিজে অটোমেটিক দেয়—তুমি নিজে হাতে এগুলো যোগ করতে বা পরিবর্তন করতে **পারবে না**।
+> এগুলো শুধুমাত্র তোমার **পাবলিক প্রোফাইলে** দেখা যায়।
+
+### 🌟 কিছু সাধারণ অফিসিয়াল অ্যাচিভমেন্ট:
+
+| অ্যাচিভমেন্ট | বিবরণ |
+|---|---|
+| ❄️ **Arctic Code Vault Contributor** | ২০২০ সালের আর্কটিক কোড ভল্টে কোড সংরক্ষিত হলে পাওয়া যায় |
+| 🌟 **GitHub Star** | GitHub Star প্রোগ্রামে নির্বাচিত হলে পাওয়া যায় |
+| 👥 **Pair Extraordinaire** | অন্য ব্যবহারকারীর সাথে co-authored commit করলে পাওয়া যায় |
+| 💖 **GitHub Sponsor** | কোনো ওপেন-সোর্স ডেভেলপারকে Sponsor করলে পাওয়া যায় |
+| 🚀 **Starstruck** | নিজের repository অনেক star পেলে পাওয়া যায় |
+| 🔀 **Pull Shark** | একাধিক Pull Request merge হলে পাওয়া যায় |
+| 🦈 **YOLO** | Review ছাড়া Pull Request merge করলে পাওয়া যায় |
+| 🎯 **Quickdraw** | Issue বা PR খোলার ৫ মিনিটের মধ্যে close করলে পাওয়া যায় |
+| 🌊 **Galaxy Brain** | Discussion-এ accepted answer দিলে পাওয়া যায় |
+| 🤝 **Heart On Your Sleeve** | কারো comment বা discussion-এ ❤️ react করলে পাওয়া যায় |
+| 🔓 **Open Sourcerer** | একাধিক public repo-তে PR merge হলে পাওয়া যায় |
+
+<p align="center">
+  <a href="https://github.com/antor1010?tab=achievements" target="_blank">
+    <img alt="পুরো Achievements দেখুন" src="https://img.shields.io/badge/🏅%20পুরো%20Achievements%20দেখতে%20এখানে%20ক্লিক%20করুন!-0e75b6?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## About Me
 - Focused on **Cyber Security**, **Software Engineering**, and **Full‑Stack Development**
 - Interested in **secure application design**, **automation**, and **scalable web apps**

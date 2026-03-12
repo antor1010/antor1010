@@ -26,6 +26,27 @@
 
 ---
 
+## ব্যাজ
+
+<p align="center">
+  <a href="https://github.com/antor1010?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/antor1010?label=Followers&style=social" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/antor1010?tab=repositories">
+    <img alt="Public Repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fantor1010&query=public_repos&label=Public%20Repos&color=blue" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/antor1010/antor1010">
+    <img alt="Profile Stars" src="https://img.shields.io/github/stars/antor1010/antor1010?label=Profile%20Stars&style=social" />
+  </a>
+</p>
+<p align="center">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/antor1010/antor1010?color=yellow" />
+</p>
+
+---
+
 ## About Me
 - Focused on **Cyber Security**, **Software Engineering**, and **Full‑Stack Development**
 - Interested in **secure application design**, **automation**, and **scalable web apps**

@@ -26,6 +26,28 @@
 
 ---
 
+## অফিসিয়াল অ্যাচিভমেন্টস
+
+> **দ্রষ্টব্য:** GitHub-এর অফিসিয়াল অ্যাচিভমেন্ট ব্যাজগুলো (যেমন Arctic Code Vault Contributor, GitHub Star, Pair Extraordinaire ইত্যাদি) GitHub নিজে অটোমেটিক্যালি পুরস্কার দেয় নির্দিষ্ট কার্যক্রম বা ইভেন্টের ভিত্তিতে। এগুলো শুধুমাত্র তোমার GitHub প্রোফাইলেই দেখা যায় এবং ম্যানুয়ালি README-তে যোগ করা সম্ভব নয়।
+
+🏅 **কিছু পরিচিত অফিসিয়াল GitHub অ্যাচিভমেন্ট:**
+
+| অ্যাচিভমেন্ট | বিবরণ |
+|---|---|
+| 🦊 **Arctic Code Vault Contributor** | ২০২০ সালের GitHub Arctic Code Vault প্রোগ্রামে কোড কন্ট্রিবিউশন করলে পাওয়া যায় |
+| ⭐ **GitHub Star** | GitHub Stars প্রোগ্রামে নির্বাচিত হলে পাওয়া যায় |
+| 👥 **Pair Extraordinaire** | কো-অথরড পুল রিকোয়েস্ট মার্জ হলে পাওয়া যায় |
+| 🦈 **Pull Shark** | একাধিক পুল রিকোয়েস্ট মার্জ হলে পাওয়া যায় |
+| 🌟 **Starstruck** | নিজের রিপোজিটরিতে প্রচুর স্টার পেলে পাওয়া যায় |
+| 🤝 **YOLO** | রিভিউ ছাড়া পুল রিকোয়েস্ট মার্জ করলে পাওয়া যায় |
+| 🧠 **Galaxy Brain** | আলোচনায় সঠিক উত্তর হিসেবে চিহ্নিত হলে পাওয়া যায় |
+| ❤️ **Public Sponsor** | GitHub Sponsors-এর মাধ্যমে কাউকে স্পন্সর করলে পাওয়া যায় |
+| 🚁 **Mars 2020 Helicopter Contributor** | Mars 2020 মিশনে ব্যবহৃত ওপেন-সোর্স প্রজেক্টে কন্ট্রিবিউশন করলে পাওয়া যায় |
+
+👉 আমার সমস্ত অফিসিয়াল অ্যাচিভমেন্ট দেখতে: [github.com/antor1010?tab=achievements](https://github.com/antor1010?tab=achievements)
+
+---
+
 ## About Me
 - Focused on **Cyber Security**, **Software Engineering**, and **Full‑Stack Development**
 - Interested in **secure application design**, **automation**, and **scalable web apps**

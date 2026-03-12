@@ -33,6 +33,15 @@
 
 ---
 
+## What I Use (and what I build)
+- **Cyber Security:** security testing, vulnerability analysis, secure coding practices  
+- **Backend:** Node.js/Express, REST APIs, authentication & authorization  
+- **Frontend:** React, responsive UI with HTML/CSS  
+- **Databases:** MongoDB, MySQL  
+- **Automation & Linux:** Bash scripting, Linux tools, and Git-based workflows  
+
+---
+
 ## Languages & Tools
 <p>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
@@ -49,6 +58,11 @@
   </a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  </a>
+
+  <!-- Added Bash -->
+  <a href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42" />
   </a>
 
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank">

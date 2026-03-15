@@ -33,7 +33,7 @@
 
 ---
 
-## What I Use (and what I build)
+## Current Stack
 - **Cyber Security:** security testing, vulnerability analysis, secure coding practices  
 - **Backend:** Node.js/Express, REST APIs, authentication & authorization  
 - **Frontend:** React, responsive UI with HTML/CSS  
@@ -86,4 +86,5 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=antor1010"
     alt="GitHub streak"
     height="180"
-
+  />
+</p>

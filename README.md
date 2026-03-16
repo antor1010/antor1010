@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/antor1010/antor1010/blob/main/Antor.jpg" alt="Antor Biswas" width="700" height="200" />
+  <img src="https://github.com/antor1010/antor1010/blob/main/Antor.jpg" alt="Antor Biswas" width="700" height="100" />
 </p>
 
 <h1 align="center">Hi, I'm Antor Biswas</h1>
